@@ -6,9 +6,9 @@ CS Student with a Specialization in Information
 
 Dedicated and driven university student with a specialization in Information at University of California Irvine's Donald Bren School of Information & Computer Sciences. Advocate for redefining and broadening digital accessibility across social backgrounds and minority communities. Eager and enthusiastic team member ready to join companies and organizations that promote an inclusive and informed future.
 
-*   🌍  I'm based in Los Angeles
+*   🌍  I'm based in Redondo Beach, CA
 *   ✉️  You can contact me at [andrewle713@gmail.com](mailto:andrewle713@gmail.com)
-*   🧠  I'm learning .NET
+*   🧠  I'm currently learning TypeScript
 *   🤝  I'm open to collaborating on projects
 
 ### Skills
